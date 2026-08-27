@@ -1,0 +1,28 @@
+{
+  "source_id": "HDX-HOT-OSM-2026-08",
+  "retrieved_at": "2026-08-28",
+  "filter": "adm1_name == Ibb and (amenity == hospital or healthcare == hospital)",
+  "candidate_count": 53,
+  "district_counts": {
+    "Adh Dhihar": 6,
+    "Al Makhadir": 2,
+    "Al Mashannah": 5,
+    "Al Qafr": 14,
+    "As Saddah": 2,
+    "As Saiyani": 3,
+    "Ash Sha'ir": 1,
+    "Ba'dan": 1,
+    "Dhi As Sufal": 3,
+    "Far' Al Odayn": 3,
+    "Hazm Al Odayn": 3,
+    "Hobeish": 2,
+    "Jiblah": 5,
+    "Yarim": 3
+  },
+  "geometry_type_counts": {
+    "Point": 52,
+    "Polygon": 1
+  },
+  "named_candidates": 52,
+  "verification_status": "All entries are public_candidate and require direct local verification."
+}

@@ -1,0 +1,1888 @@
+{
+  "type": "FeatureCollection",
+  "name": "ibb_hospital_candidates_osm_2026_08_07",
+  "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+  "attribution": "© OpenStreetMap contributors; Humanitarian OpenStreetMap Team (HOT). Derived from HDX snapshot dated 2026-08-07.",
+  "source": {
+    "source_id": "HDX-HOT-OSM-2026-08",
+    "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+    "retrieved_at": "2026-08-28"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-5638758021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1833068,
+          13.9727416
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-5638758021",
+        "name": "المركز الإستشاري للأمراض الجلدية د/رشاد البعداني",
+        "name_ar": "المركز الإستشاري للأمراض الجلدية د/رشاد البعداني",
+        "name_en": "lmrkz lstshry ll'mrD ljldy@",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223237722",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.169462,
+          13.977509
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223237722",
+        "name": "مستشفى الثورة العام إب",
+        "name_ar": "مستشفى الثورة العام إب",
+        "name_en": "Mustashfa ath Thawrah al Am Ibb",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-5359072621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1468795,
+          13.9715307
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-5359072621",
+        "name": "مستشفى الحمد التخصصي",
+        "name_ar": null,
+        "name_en": "mstshf~ lHmd ltkhSSy",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-5359072421",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1493826,
+          13.9712335
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-5359072421",
+        "name": "مستشفى النور التخصصي",
+        "name_ar": null,
+        "name_en": "mstshf~ lnwr ltkhSSy",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223237742",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.185757,
+          13.979879
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223237742",
+        "name": "مستشفى ناصر العام",
+        "name_ar": "مستشفى ناصر العام",
+        "name_en": "Mustashfa Nasir al `Amm",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-7334323185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1680318,
+          13.9761879
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-7334323185",
+        "name": "مستوصف الدكتور احمد الزمر",
+        "name_ar": null,
+        "name_en": "mstwSf ldktwr Hmd lzmr",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223293818",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.147267,
+          14.192935
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223293818",
+        "name": "الوحدة الصحية بالكداكد",
+        "name_ar": "الوحدة الصحية بالكداكد",
+        "name_en": "Al Wahdah as Sihhiyah bil Kidakid",
+        "governorate": "Ibb",
+        "district": "Al Makhadir",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1218216809",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.21764,
+          14.14985
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1218216809",
+        "name": "الوحدة الصحية بالمحفد",
+        "name_ar": "الوحدة الصحية بالمحفد",
+        "name_en": "Al Wahdah as Sihhiyah bil Mahfad",
+        "governorate": "Ibb",
+        "district": "Al Makhadir",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1219348030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.159361,
+          13.946708
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1219348030",
+        "name": "الوحدة الصحية أنامر أسفل",
+        "name_ar": "الوحدة الصحية أنامر أسفل",
+        "name_en": "Al Wahdah as Sihhiyah Anamir Asfal",
+        "governorate": "Ibb",
+        "district": "Al Mashannah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-5056808228",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1849332,
+          13.951965
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-5056808228",
+        "name": "مستشفى المجد",
+        "name_ar": null,
+        "name_en": "Almajed Hospital",
+        "governorate": "Ibb",
+        "district": "Al Mashannah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-4315893390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.176893,
+          13.952138
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-4315893390",
+        "name": "مستشفى المنار",
+        "name_ar": null,
+        "name_en": "mstshf~ lmnr",
+        "governorate": "Ibb",
+        "district": "Al Mashannah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-5015696321",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1806047,
+          13.9599334
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-5015696321",
+        "name": "مستشفى النصر العام",
+        "name_ar": "مستشفى النصر العام",
+        "name_en": "Al Nasr Hospital",
+        "governorate": "Ibb",
+        "district": "Al Mashannah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-4406569393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1820407,
+          13.9673814
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-4406569393",
+        "name": "مستشفى دار الشفاء التخصصي",
+        "name_ar": null,
+        "name_en": "mstshf~ dr lshf ltkhSSy",
+        "governorate": "Ibb",
+        "district": "Al Mashannah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-8818156317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2513751,
+          14.2548625
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-8818156317",
+        "name": "المركز الصحي الضبر",
+        "name_ar": null,
+        "name_en": "lmrkz lSHy lDbr",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-8818156217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2438478,
+          14.2811219
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-8818156217",
+        "name": "المركز الصحي بني مسلم",
+        "name_ar": null,
+        "name_en": "lmrkz lSHy bny mslm",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223290368",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.128797,
+          14.23669
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223290368",
+        "name": "المركز الصحي بني مفتاح",
+        "name_ar": "المركز الصحي بني مفتاح",
+        "name_en": "Al Markiz as Sihhiy Bani Muftah",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223293380",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.002445,
+          14.32586
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223293380",
+        "name": "المركز الصحي بني مهدي",
+        "name_ar": "المركز الصحي بني مهدي",
+        "name_en": "Al Markaz as Sihhiy Bani Mahdi",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-8818156017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2091333,
+          14.2674781
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-8818156017",
+        "name": "الوحدة اصحية اريان",
+        "name_ar": null,
+        "name_en": "lwHd@ SHy@ ryn",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-8818170118",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0397403,
+          14.4227839
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-8818170118",
+        "name": "الوحدة الصحية النخلة",
+        "name_ar": null,
+        "name_en": "lwHd@ lSHy@ lnkhl@",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223290962",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.941434,
+          14.24689
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223290962",
+        "name": "الوحدة الصحية الوادعي",
+        "name_ar": "الوحدة الصحية الوادعي",
+        "name_en": "Al Wahdah as Sihhiyah al Wadai",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223293454",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.102166,
+          14.26544
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223293454",
+        "name": "الوحدة الصحية بالمقهاية",
+        "name_ar": "الوحدة الصحية بالمقهاية",
+        "name_en": "Al Wahdah as Sihhiyah bil Maqhayah",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-8818225617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0176713,
+          14.3025692
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-8818225617",
+        "name": "الوحدة الصحية جمعة الرزع",
+        "name_ar": null,
+        "name_en": "lwHd@ lSHy@ jm`@ lrz`",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-8818156618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1863875,
+          14.2622191
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-8818156618",
+        "name": "الوحدة الصحية سطاح",
+        "name_ar": null,
+        "name_en": "lwHd@ lSHy@ sTH",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223293076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.945252,
+          14.330603
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223293076",
+        "name": "الوحدة الصحية مدحجين",
+        "name_ar": "الوحدة الصحية مدحجين",
+        "name_en": "Al Wahdah as Sihhiyah Mudahijin",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223291238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.113308,
+          14.293789
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223291238",
+        "name": "الوحدة الصحية نجد مور",
+        "name_ar": "الوحدة الصحية نجد مور",
+        "name_en": "Al Wahdah as Sihhiyah Najd Mur",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-6936554177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.154047,
+          14.33657
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-6936554177",
+        "name": "حدبان",
+        "name_ar": "حدبان",
+        "name_en": "Hadban",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223290331",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1288017,
+          14.2368442
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223290331",
+        "name": "مركز صحي المفتاح",
+        "name_ar": "مركز صحي المفتاح",
+        "name_en": "Markaz Sihhiy al Muftah",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-4905412621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3079618,
+          14.0901326
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-4905412621",
+        "name": "الوحده الصحيه عزلة العبس",
+        "name_ar": "الوحده الصحيه عزلة العبس",
+        "name_en": "lwHdh lSHyh `zl@ l`bs",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1222014045",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.422022,
+          14.119064
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1222014045",
+        "name": "مستشفى الشهيد علي عبد المغني",
+        "name_ar": "مستشفى الشهيد علي عبد المغني",
+        "name_en": "Mustashfa ash Shahid Ali Abd al Mughanni",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223244428",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.153091,
+          13.855994
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223244428",
+        "name": "الوحدة الصحية النقيلين",
+        "name_ar": "الوحدة الصحية النقيلين",
+        "name_en": "Al Wahdah as Sihhiyah an Naqilin",
+        "governorate": "Ibb",
+        "district": "As Saiyani",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223244585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.174792,
+          13.842334
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223244585",
+        "name": "الوحدة الصحية بالسياني",
+        "name_ar": "الوحدة الصحية بالسياني",
+        "name_en": "Al Wahdah as Sihhiyah bis Siyanah",
+        "governorate": "Ibb",
+        "district": "As Saiyani",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1218208805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.18697,
+          13.903168
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1218208805",
+        "name": "مركز صحي هدفان",
+        "name_ar": "مركز صحي هدفان",
+        "name_en": "Markaz Sihhiy Hadfan",
+        "governorate": "Ibb",
+        "district": "As Saiyani",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1218218875",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3278169,
+          14.0647422
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1218218875",
+        "name": "المركز الصحي بر رباط",
+        "name_ar": "المركز الصحي بر رباط",
+        "name_en": "Al Markaz as Sihhiy bir Rabat",
+        "governorate": "Ibb",
+        "district": "Ash Sha'ir",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-4460562090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.279997,
+          13.951882
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-4460562090",
+        "name": "مركز جدابه الصحي مراد الهتار",
+        "name_ar": "مركز جدابه الصحي مراد الهتار",
+        "name_en": "mrkz jdbh lSHy mrd lhtr",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-6303687685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1355498,
+          13.7618297
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-6303687685",
+        "name": "مستشفى القاعدة",
+        "name_ar": "مستشفى القاعدة",
+        "name_en": "Alqaida hospital",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-4811814924",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.135743,
+          13.7622812
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-4811814924",
+        "name": "مستوصف القاعدة",
+        "name_ar": "مستوصف القاعدة",
+        "name_en": "mstwSf lq`d@",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-12006274571",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.134597,
+          13.7616326
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-12006274571",
+        "name": "مستوصف دار العلوم",
+        "name_ar": null,
+        "name_en": "Dar Al-Aulom",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-way-991049555",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.8613083,
+              13.9789802
+            ],
+            [
+              43.8614692,
+              13.9782063
+            ],
+            [
+              43.8606482,
+              13.9780693
+            ],
+            [
+              43.8604768,
+              13.9788379
+            ],
+            [
+              43.8613083,
+              13.9789802
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-way-991049555",
+        "name": "Unnamed hospital (way/991049555)",
+        "name_ar": null,
+        "name_en": null,
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1217856638",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.904332,
+          13.983311
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1217856638",
+        "name": "المركز الصحي بالمزاحن",
+        "name_ar": "المركز الصحي بالمزاحن",
+        "name_en": "Al Markaz as Sihhiy bil Mizahin",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "facility_category": "hospital",
+        "operator_type": "public",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-8567854821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8267016,
+          13.935362
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-8567854821",
+        "name": "مركز الكدرة الصحي",
+        "name_ar": null,
+        "name_en": "alkadara health center",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1221840474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.910342,
+          14.008561
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1221840474",
+        "name": "المركز الصحي بالأيعون",
+        "name_ar": "المركز الصحي بالأيعون",
+        "name_en": "المركز الصحي بالأيعون",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1224315023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.997975,
+          14.153699
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1224315023",
+        "name": "الوحدة الصحية الشعاور",
+        "name_ar": "الوحدة الصحية الشعاور",
+        "name_en": "Al Wahdah as Sihhiyah ash Shaawar",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223293130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.997023,
+          14.205977
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223293130",
+        "name": "وحدة صحية الظروف",
+        "name_ar": "وحدة صحية الظروف",
+        "name_en": "Wahdah Sihhiyah az Ziruf",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1224315037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.01834,
+          14.155718
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1224315037",
+        "name": "المركز الصحي بني شبيب",
+        "name_ar": "المركز الصحي بني شبيب",
+        "name_en": "Al Markaz as Sihhiy Bani Shubayb",
+        "governorate": "Ibb",
+        "district": "Hobeish",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223292355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0801,
+          14.172299
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223292355",
+        "name": "وحدة صحية حبران",
+        "name_ar": "وحدة صحية حبران",
+        "name_en": "Wahdah Sihhiyah Hibran",
+        "governorate": "Ibb",
+        "district": "Hobeish",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-6937224474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.149569,
+          13.92606
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-6937224474",
+        "name": "مستشفى جبلة",
+        "name_ar": "مستشفى جبلة",
+        "name_en": "Mustashfa Jiblah",
+        "governorate": "Ibb",
+        "district": "Jiblah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-4464769290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1518936,
+          13.9234586
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-4464769290",
+        "name": "مستشفى جبله",
+        "name_ar": "مستشفى جبله",
+        "name_en": "Jiblah hospital",
+        "governorate": "Ibb",
+        "district": "Jiblah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-7672799175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1612245,
+          13.897658
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-7672799175",
+        "name": "مستوصف السرايم",
+        "name_ar": null,
+        "name_en": "Clinic",
+        "governorate": "Ibb",
+        "district": "Jiblah",
+        "facility_category": "hospital",
+        "operator_type": "public",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1219347979",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1494195,
+          13.9262278
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1219347979",
+        "name": "معهد جبله",
+        "name_ar": "معهد جبله",
+        "name_en": "Bin Akil",
+        "governorate": "Ibb",
+        "district": "Jiblah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1219347924",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1496017,
+          13.9259194
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1219347924",
+        "name": "مكتبة جبلة",
+        "name_ar": "مكتبة جبلة",
+        "name_en": "Jiblah library",
+        "governorate": "Ibb",
+        "district": "Jiblah",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1222019303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.183814,
+          14.322231
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1222019303",
+        "name": "المركز الصحي خوران",
+        "name_ar": "المركز الصحي خوران",
+        "name_en": "Al Markaz as Sihhiy Khuran",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1223210722",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.377279,
+          14.303839
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1223210722",
+        "name": "مستشفى يحصب يريم",
+        "name_ar": "مستشفى يحصب يريم",
+        "name_en": "Mustashfa Yahsab Yarim",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-hospital-osm-node-1869315399",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3698963,
+          14.3045449
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-hospital-osm-node-1869315399",
+        "name": "مستشفى يريم العام",
+        "name_ar": null,
+        "name_en": "mstshf~ yrym l`m",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "facility_category": "hospital",
+        "operator_type": "unknown",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. Location and attributes require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen health-facilities snapshot."
+      }
+    }
+  ]
+}
