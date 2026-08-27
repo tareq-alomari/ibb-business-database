@@ -1,0 +1,1100 @@
+{
+  "type": "FeatureCollection",
+  "name": "ibb_school_candidates_osm_2026_08_07",
+  "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+  "attribution": "© OpenStreetMap contributors; Humanitarian OpenStreetMap Team (HOT). Derived from HDX snapshot dated 2026-08-07.",
+  "source": {
+    "source_id": "HDX-HOT-OSM-EDU-2026-08",
+    "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+    "retrieved_at": "2026-08-28"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-5015704822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1805095,
+          13.9635844
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-5015704822",
+        "name": "مجمع السعيد التربوي للبنات",
+        "name_ar": "مجمع السعيد التربوي للبنات",
+        "name_en": "Al - Saeed Educational Complex for Girls",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-8530136417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1798537,
+          13.9750894
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-8530136417",
+        "name": "مدرسة أروى للبنات",
+        "name_ar": null,
+        "name_en": "Arwa Girls School",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-6111334685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1908126,
+          13.9754082
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-6111334685",
+        "name": "مدرسة أسماء للبنات",
+        "name_ar": null,
+        "name_en": "mdrs@ 'sm llbnt",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-7236130786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1853979,
+          13.9776417
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-7236130786",
+        "name": "مدرسة الشعب",
+        "name_ar": null,
+        "name_en": "alshab school",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-8308649019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1757731,
+          13.972756
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-8308649019",
+        "name": "مدرسة الشهيد الصباحي",
+        "name_ar": null,
+        "name_en": "mdrs@ lshhyd lSbHy",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-4825567322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1750044,
+          13.9720391
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-4825567322",
+        "name": "مدرسة الشهيد الصباحي",
+        "name_ar": null,
+        "name_en": "Alshaheed Alsbahi school",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-6327784239",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1708541,
+          14.18032
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-6327784239",
+        "name": "Unnamed school (node/6327784239)",
+        "name_ar": null,
+        "name_en": null,
+        "governorate": "Ibb",
+        "district": "Al Makhadir",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-6327784395",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.202311,
+          14.193166
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-6327784395",
+        "name": "Unnamed school (node/6327784395)",
+        "name_ar": null,
+        "name_en": null,
+        "governorate": "Ibb",
+        "district": "Al Makhadir",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-5235489724",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1821328,
+          13.9408408
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-5235489724",
+        "name": "مدرسة الشهيد محمد الدرة",
+        "name_ar": null,
+        "name_en": "mdrs@ lshhyd mHmd ldr@",
+        "governorate": "Ibb",
+        "district": "Al Mashannah",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-14077248618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8881946,
+          13.9362885
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-14077248618",
+        "name": "مدرسة الإمام مسلم",
+        "name_ar": "مدرسة الإمام مسلم",
+        "name_en": "Imam Muslim amenity=school",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-14077268865",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8863415,
+          13.9580119
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-14077268865",
+        "name": "مدرسة الشهيد الحذيفي",
+        "name_ar": "مدرسة الشهيد الحذيفي",
+        "name_en": "Martyr Al Hudhaifi School",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-5318486722",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4927187,
+          14.1446349
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-5318486722",
+        "name": "بيت مشرح",
+        "name_ar": "بيت مشرح",
+        "name_en": "byt mshrH",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-9676888414",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5080955,
+          14.0375795
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-9676888414",
+        "name": "مدرسة الجبوبة",
+        "name_ar": null,
+        "name_en": "mdrs@ ljbwb@",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-8390154717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5826755,
+          14.2235587
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-8390154717",
+        "name": "مجمع الأمل التربوي",
+        "name_ar": null,
+        "name_en": "Al-Amal Educational Complex",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-4913901221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5826755,
+          14.1695427
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-4913901221",
+        "name": "مدرسة الشهيد الثلايا - الغيلي",
+        "name_ar": null,
+        "name_en": "mdrs@ lshhyd lthly - lGyly",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-8387846020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5669375,
+          14.2073081
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-8387846020",
+        "name": "مدرسة صلاح الدين الايوبي",
+        "name_ar": null,
+        "name_en": "Salah El Din Al Ayoubi School",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-way-262778313",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.3970566,
+              14.2075165
+            ],
+            [
+              44.39732,
+              14.2075889
+            ],
+            [
+              44.3974267,
+              14.2072025
+            ],
+            [
+              44.3971598,
+              14.2071232
+            ],
+            [
+              44.3970566,
+              14.2075165
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-way-262778313",
+        "name": "Unnamed school (way/262778313)",
+        "name_ar": null,
+        "name_en": null,
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-5760514122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1333904,
+          13.7553233
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-5760514122",
+        "name": "مدرسة سبأ",
+        "name_ar": null,
+        "name_en": "mdrs@ sb'",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-5792843990",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1633224,
+          13.7643128
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-5792843990",
+        "name": "مدرسة سعيد بن المسيب",
+        "name_ar": null,
+        "name_en": "mdrs@ s`yd bn lmsyb",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-way-991049549",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.8558062,
+              13.9837426
+            ],
+            [
+              43.8558115,
+              13.9840714
+            ],
+            [
+              43.8556846,
+              13.9840749
+            ],
+            [
+              43.8556792,
+              13.9840462
+            ],
+            [
+              43.8557668,
+              13.984041
+            ],
+            [
+              43.8557632,
+              13.9839708
+            ],
+            [
+              43.8557454,
+              13.9839708
+            ],
+            [
+              43.8557463,
+              13.9837348
+            ],
+            [
+              43.8558062,
+              13.9837426
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-way-991049549",
+        "name": "Al-wahdah",
+        "name_ar": null,
+        "name_en": "Al-wahdah",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-way-740961741",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.8492256,
+              13.9834258
+            ],
+            [
+              43.8492326,
+              13.9832463
+            ],
+            [
+              43.8491632,
+              13.9831746
+            ],
+            [
+              43.8490153,
+              13.9831768
+            ],
+            [
+              43.8490338,
+              13.9832351
+            ],
+            [
+              43.8491678,
+              13.9832396
+            ],
+            [
+              43.8491678,
+              13.9834258
+            ],
+            [
+              43.8492256,
+              13.9834258
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-way-740961741",
+        "name": "Unnamed school (way/740961741)",
+        "name_ar": null,
+        "name_en": null,
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-9993463617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7882398,
+          13.9658576
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-9993463617",
+        "name": "حومل العدين",
+        "name_ar": null,
+        "name_en": "Hwml l`dyn",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-7985582640",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7235549,
+          13.9171688
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-7985582640",
+        "name": "مدرسة 26 سبتمبر",
+        "name_ar": null,
+        "name_en": "mdrs@ 26 sbtmbr",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-12593610428",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0435026,
+          14.1327398
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-12593610428",
+        "name": "مدرسة الهدى الابتدائية",
+        "name_ar": null,
+        "name_en": "mdrs@ lhd~ lbtdy'y@",
+        "governorate": "Ibb",
+        "district": "Hobeish",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-7760594703",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1592846,
+          13.897673
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-7760594703",
+        "name": "Girl School مدرسة خولة",
+        "name_ar": null,
+        "name_en": "Girl School mdrs@ khwl@",
+        "governorate": "Ibb",
+        "district": "Jiblah",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-7672803872",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1591245,
+          13.8984426
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-7672803872",
+        "name": "مدرسة 22 مايو",
+        "name_ar": null,
+        "name_en": "mdrs@ 22 myw",
+        "governorate": "Ibb",
+        "district": "Jiblah",
+        "institution_type": "school",
+        "ownership_status": "public_candidate",
+        "source_operator_type": "public",
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-school-osm-node-1869250563",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3780172,
+          14.296547
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-school-osm-node-1869250563",
+        "name": "مدرسة خالد بن الوليد",
+        "name_ar": null,
+        "name_en": "mdrs@ khld bn lwlyd",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "institution_type": "school",
+        "ownership_status": "unknown",
+        "source_operator_type": null,
+        "source_school_signal": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "verified_at": null,
+            "license": "ODC-ODbL; attribution required to OpenStreetMap contributors and HOT",
+            "note": "Public OSM-derived candidate. School type, ownership, location and current operation require direct local verification."
+          }
+        ],
+        "updated_at": "2026-08-28",
+        "change_note": "Created by reproducible filter from the August 2026 HOT/OSM Yemen education-facilities snapshot."
+      }
+    }
+  ]
+}

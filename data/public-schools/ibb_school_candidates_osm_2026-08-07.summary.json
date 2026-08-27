@@ -1,0 +1,32 @@
+{
+  "source_id": "HDX-HOT-OSM-EDU-2026-08",
+  "retrieved_at": "2026-08-28",
+  "filter": "adm1_name == Ibb and (amenity == school or building == school)",
+  "name_exclusions": "Exclude explicit private or higher-education name signals; final ownership still requires direct verification.",
+  "source_school_signal_count": 31,
+  "excluded_by_name_signal_count": 4,
+  "candidate_count": 27,
+  "district_counts": {
+    "Adh Dhihar": 6,
+    "Al Makhadir": 2,
+    "Al Mashannah": 1,
+    "Al Odayn": 2,
+    "An Nadirah": 2,
+    "Ar Radmah": 3,
+    "As Saddah": 1,
+    "Dhi As Sufal": 2,
+    "Far' Al Odayn": 4,
+    "Hobeish": 1,
+    "Jiblah": 2,
+    "Yarim": 1
+  },
+  "ownership_status_counts": {
+    "public_candidate": 1,
+    "unknown": 26
+  },
+  "geometry_type_counts": {
+    "Point": 24,
+    "Polygon": 3
+  },
+  "verification_status": "All entries are public_candidate. OSM labels do not verify government ownership or operating status."
+}
