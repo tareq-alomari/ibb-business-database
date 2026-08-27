@@ -1,6 +1,21 @@
 # موقع IBB Business Database
 
+# IBB Business Database — الموقع التعريفي
+
 واجهة عربية تعريفية مبنية بـReact وVite لتحويل تحليل مستودع **IBB Business Database** إلى تجربة تحريرية تفاعلية، تعرض الفكرة ونطاق التغطية ومنهجية التحليل وخارطة التنفيذ وبيان الحقوق والتواصل.
+
+## روابط المشروع
+
+| الرابط | العنوان |
+|---|---|
+| [الموقع المباشر](https://ibbdbase-mdqccyca.manus.space) | معاينة الموقع المنشور |
+| [المستودع الرئيسي](https://github.com/tareq-alomari/ibb-business-database) | المصدر الكامل لمشروع IBB Business Database |
+
+## معاينة الواجهة
+
+[![معاينة الموقع المنشور](docs/ibb-site-preview.webp)](https://ibbdbase-mdqccyca.manus.space)
+
+> لقطة من الصفحة الرئيسية للموقع المنشور. انقر الصورة لفتح المعاينة الحية.
 
 ## التشغيل المحلي
 
@@ -33,9 +48,11 @@ pnpm build
 
 ## الحقوق والتواصل
 
-يعرض الموقع بيان الاستخدام الوارد في المستودع: المشروع مخصص للاستخدام العام والتطوير المفتوح. لطلب توضيح حول إعادة الاستخدام أو التعاون، يرجى الرجوع إلى صاحب المشروع:
+يعرض الموقع بيان الاستخدام الوارد في المستودع: المشروع مخصص للاستخدام العام والتطوير المفتوح. لطلب توضيح حول إعادة الاستخدام أو التعاون، يرجى الرجوع إلى صاحب المشروع عبر بيانات التواصل التالية.
 
-- **طارق العمري / DemoSoft**
-- البريد الإلكتروني: `tareq.software.devloper@gmail.com`
-- الهاتف: `+967 715 299 909`
-- المستودع: https://github.com/tareq-alomari/ibb-business-database
+| البند | التفاصيل |
+|---|---|
+| صاحب المشروع | **طارق العمري / DemoSoft** |
+| البريد الإلكتروني | [tareq.software.devloper@gmail.com](mailto:tareq.software.devloper@gmail.com) |
+| الهاتف | [+967 715 299 909](tel:+967715299909) |
+| مستودع المشروع | [tareq-alomari/ibb-business-database](https://github.com/tareq-alomari/ibb-business-database) |
