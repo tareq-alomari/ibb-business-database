@@ -1,0 +1,8 @@
+{
+  "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+  "retrieved_at": "2026-08-28",
+  "filter": "adm1_name == Ibb and (amenity == laboratory or healthcare == laboratory)",
+  "candidate_count": 0,
+  "district_counts": {},
+  "verification_status": "All records are public_candidate and do not assert current operation, licence, tests, turnaround time or prices."
+}
