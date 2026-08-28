@@ -1,0 +1,26 @@
+{
+  "title": "Officially sourced institute-level institutions in Ibb Governorate",
+  "updated_at": "2026-08-28",
+  "scope_note": "This is a limited institutional index, not a full registry of public or private institutes in Ibb. The record shows an institute identity published in the electronic coordination portal; it does not claim programme availability, fees or current operational capacity.",
+  "records": [
+    {
+      "record_id": "ibb-institute-al-samad-technical-industrial",
+      "name": "معهد الصماد التقني الصناعي محافظة إب",
+      "governorate": "Ibb",
+      "institution_type": "technical_institute",
+      "ownership_status": "unknown",
+      "official_url": "https://tanseek.net/crgate.php?cg=98",
+      "verification_status": "official_verified",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "TANSEEK-SAMAD-IBB-2026-08",
+          "source_url": "https://tanseek.net/crgate.php?cg=98",
+          "retrieved_at": "2026-08-28",
+          "note": "Institute identity appears in the public electronic coordination portal. The record excludes applicant fields, contact persons and unstated operational details."
+        }
+      ],
+      "updated_at": "2026-08-28"
+    }
+  ]
+}
