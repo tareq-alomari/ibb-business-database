@@ -1,0 +1,11 @@
+{
+  "source_id": "HDX-HOT-OSM-EDU-2026-08",
+  "retrieved_at": "2026-08-28",
+  "filter": "adm1_name == Ibb and school signal and (operator_type == private or explicit private-school name signal)",
+  "candidate_count": 3,
+  "district_counts": {
+    "Al Mashannah": 2,
+    "Jiblah": 1
+  },
+  "verification_status": "All entries are public_candidate; private ownership, licensing and current operation require direct local verification."
+}

@@ -13,7 +13,7 @@
     "governorate": { "const": "Ibb" },
     "district": { "type": ["string", "null"] },
     "institution_type": { "type": "string", "enum": ["school", "kindergarten", "college", "university", "other"] },
-    "ownership_status": { "type": "string", "enum": ["government_verified", "private_verified", "public_candidate", "unknown"] },
+    "ownership_status": { "type": "string", "enum": ["government_verified", "private_verified", "government_candidate", "private_candidate", "unknown"] },
     "geometry": { "type": ["object", "null"], "description": "GeoJSON geometry; a candidate location requires official or field confirmation." },
     "education_stages": { "type": "array", "items": { "type": "string" }, "default": [] },
     "verification_status": { "type": "string", "enum": ["official_verified", "field_verified", "public_candidate", "stale", "rejected"] },

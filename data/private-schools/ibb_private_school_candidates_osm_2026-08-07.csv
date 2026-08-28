@@ -1,0 +1,4 @@
+record_id,name,name_ar,name_en,district,source_operator_type,private_name_signal,ownership_status,verification_status,confidence,source_id,source_url,retrieved_at
+ibb-school-node-7575310485,مدارس النور الاهلية,,mdrs lnwr lhly@,Al Mashannah,,True,private_candidate,public_candidate,medium,HDX-HOT-OSM-EDU-2026-08,https://data.humdata.org/dataset/hotosm_yem_education_facilities,2026-08-28
+ibb-school-node-7575310189,مدرسة الرواد الاهلية,,mdrs@ lrwd lhly@,Al Mashannah,,True,private_candidate,public_candidate,medium,HDX-HOT-OSM-EDU-2026-08,https://data.humdata.org/dataset/hotosm_yem_education_facilities,2026-08-28
+ibb-school-node-4315882390,مدرسة الأقصى الأهلية,,mdrs@ l'qS~ l'hly@,Jiblah,,True,private_candidate,public_candidate,medium,HDX-HOT-OSM-EDU-2026-08,https://data.humdata.org/dataset/hotosm_yem_education_facilities,2026-08-28

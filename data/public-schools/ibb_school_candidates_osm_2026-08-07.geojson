@@ -1040,7 +1040,7 @@
         "governorate": "Ibb",
         "district": "Jiblah",
         "institution_type": "school",
-        "ownership_status": "public_candidate",
+        "ownership_status": "government_candidate",
         "source_operator_type": "public",
         "source_school_signal": "school",
         "verification_status": "public_candidate",
