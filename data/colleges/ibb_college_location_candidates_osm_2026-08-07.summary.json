@@ -1,0 +1,11 @@
+{
+  "source_id": "HDX-HOT-OSM-EDU-2026-08",
+  "retrieved_at": "2026-08-28",
+  "filter": "adm1_name == Ibb and (college tag or explicit college name signal)",
+  "candidate_count": 3,
+  "district_counts": {
+    "Adh Dhihar": 2,
+    "Ba'dan": 1
+  },
+  "verification_status": "All records are public_candidate and are not linked automatically to official college units."
+}

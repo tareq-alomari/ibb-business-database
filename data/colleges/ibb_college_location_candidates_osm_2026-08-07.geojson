@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "name": "ibb_college_location_candidates_osm_2026_08_07",
+  "attribution": "© OpenStreetMap contributors; Humanitarian OpenStreetMap Team (HOT). Derived from HDX snapshot dated 2026-08-07.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ibb-college-osm-node-5015695921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1783621,
+          13.9776176
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-college-osm-node-5015695921",
+        "name": "جامعة إب كلية التربية",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "source_tag": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived candidate. It is not automatically linked to an official college unit."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-college-osm-node-4876104123",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1780392,
+          13.9774893
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-college-osm-node-4876104123",
+        "name": "كلية التربية إب",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "source_tag": "college",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived candidate. It is not automatically linked to an official college unit."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-college-osm-node-10687747605",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2921666,
+          14.0418046
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-college-osm-node-10687747605",
+        "name": "Unnamed college candidate (node/10687747605)",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "source_tag": "college",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived candidate. It is not automatically linked to an official college unit."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    }
+  ]
+}
