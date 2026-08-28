@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "name": "ibb_university_location_candidates_osm_2026_08_07",
+  "attribution": "© OpenStreetMap contributors; Humanitarian OpenStreetMap Team (HOT). Derived from HDX snapshot dated 2026-08-07.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ibb-university-osm-way-408604003",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.1773424,
+              13.9575632
+            ],
+            [
+              44.1773517,
+              13.9575098
+            ],
+            [
+              44.177345,
+              13.9574396
+            ],
+            [
+              44.1772887,
+              13.9573406
+            ],
+            [
+              44.175615,
+              13.9556968
+            ],
+            [
+              44.1755037,
+              13.955663
+            ],
+            [
+              44.1754138,
+              13.9556721
+            ],
+            [
+              44.1753159,
+              13.9557124
+            ],
+            [
+              44.1752422,
+              13.9557723
+            ],
+            [
+              44.175088,
+              13.9561211
+            ],
+            [
+              44.1748157,
+              13.9565962
+            ],
+            [
+              44.1742874,
+              13.9572486
+            ],
+            [
+              44.1736262,
+              13.9580591
+            ],
+            [
+              44.1732801,
+              13.9584808
+            ],
+            [
+              44.172902,
+              13.958892
+            ],
+            [
+              44.17256,
+              13.9592044
+            ],
+            [
+              44.1721241,
+              13.9595545
+            ],
+            [
+              44.172104,
+              13.9596599
+            ],
+            [
+              44.1720262,
+              13.9597849
+            ],
+            [
+              44.1718277,
+              13.9599423
+            ],
+            [
+              44.1718076,
+              13.9599814
+            ],
+            [
+              44.1718036,
+              13.9600282
+            ],
+            [
+              44.171825,
+              13.9600634
+            ],
+            [
+              44.171593,
+              13.9602859
+            ],
+            [
+              44.1715394,
+              13.9602456
+            ],
+            [
+              44.1715045,
+              13.9602417
+            ],
+            [
+              44.1714589,
+              13.9602495
+            ],
+            [
+              44.1711827,
+              13.9604681
+            ],
+            [
+              44.1710928,
+              13.9604903
+            ],
+            [
+              44.1710472,
+              13.9604747
+            ],
+            [
+              44.171007,
+              13.9604473
+            ],
+            [
+              44.170295,
+              13.9610147
+            ],
+            [
+              44.1697463,
+              13.9614508
+            ],
+            [
+              44.1692206,
+              13.9618672
+            ],
+            [
+              44.1681269,
+              13.9627073
+            ],
+            [
+              44.1671473,
+              13.963498
+            ],
+            [
+              44.1676019,
+              13.9640394
+            ],
+            [
+              44.1677293,
+              13.9644142
+            ],
+            [
+              44.16785,
+              13.9650494
+            ],
+            [
+              44.1680244,
+              13.9655439
+            ],
+            [
+              44.1695988,
+              13.9646641
+            ],
+            [
+              44.1700628,
+              13.9643257
+            ],
+            [
+              44.1711491,
+              13.9637088
+            ],
+            [
+              44.1721751,
+              13.963118
+            ],
+            [
+              44.1726565,
+              13.9626286
+            ],
+            [
+              44.1730133,
+              13.9622746
+            ],
+            [
+              44.1737428,
+              13.9615718
+            ],
+            [
+              44.173995,
+              13.961223
+            ],
+            [
+              44.1738796,
+              13.9610284
+            ],
+            [
+              44.174121,
+              13.9608599
+            ],
+            [
+              44.174455,
+              13.9605632
+            ],
+            [
+              44.1749378,
+              13.960243
+            ],
+            [
+              44.1752636,
+              13.9599697
+            ],
+            [
+              44.1756204,
+              13.9595246
+            ],
+            [
+              44.1759329,
+              13.9590964
+            ],
+            [
+              44.1762292,
+              13.9587866
+            ],
+            [
+              44.1767053,
+              13.9583688
+            ],
+            [
+              44.1773209,
+              13.957696
+            ],
+            [
+              44.1773424,
+              13.9575632
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-university-osm-way-408604003",
+        "name": "جامعة إب",
+        "name_ar": "جامعة إب",
+        "name_en": "Ibb University",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "source_tag": "university",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived university-location candidate. Linkage to an official institution, ownership and current operation require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-university-osm-node-5015695921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1783621,
+          13.9776176
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-university-osm-node-5015695921",
+        "name": "جامعة إب كلية التربية",
+        "name_ar": null,
+        "name_en": "University of Ibb College of Education",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "source_tag": "school",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-EDU-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_education_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived university-location candidate. Linkage to an official institution, ownership and current operation require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    }
+  ]
+}

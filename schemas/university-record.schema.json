@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/tareq-alomari/ibb-business-database/schemas/university-record.schema.json",
+  "title": "Ibb University Institution Record",
+  "description": "Schema for an institution-level university record. It does not model students or individual academic staff.",
+  "type": "object",
+  "required": ["record_id", "name", "governorate", "institution_type", "verification_status", "confidence", "sources", "updated_at"],
+  "properties": {
+    "record_id": { "type": "string", "pattern": "^ibb-university-[a-z0-9-]+$" },
+    "name": { "type": "string", "minLength": 1 },
+    "name_ar": { "type": ["string", "null"] },
+    "name_en": { "type": ["string", "null"] },
+    "governorate": { "const": "Ibb" },
+    "institution_type": { "type": "string", "enum": ["university", "university_branch"] },
+    "ownership_status": { "type": "string", "enum": ["government_verified", "private_verified", "unknown"] },
+    "official_url": { "type": ["string", "null"], "format": "uri" },
+    "location_status": { "type": "string", "enum": ["official_verified", "public_candidate", "not_recorded"] },
+    "verification_status": { "type": "string", "enum": ["official_verified", "field_verified", "public_candidate", "stale", "rejected"] },
+    "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["source_id", "source_url", "retrieved_at"],
+        "properties": {
+          "source_id": { "type": "string" },
+          "source_url": { "type": "string", "format": "uri" },
+          "retrieved_at": { "type": "string", "format": "date" },
+          "note": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "updated_at": { "type": "string", "format": "date" },
+    "change_note": { "type": "string" }
+  },
+  "additionalProperties": false
+}

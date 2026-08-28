@@ -1,0 +1,53 @@
+{
+  "title": "Officially sourced university institutions in Ibb Governorate",
+  "updated_at": "2026-08-28",
+  "scope_note": "This is not a complete registry of all universities in Ibb. It contains only institutions supported by a direct institutional page reviewed in this research batch.",
+  "records": [
+    {
+      "record_id": "ibb-university-ibb-university",
+      "name": "جامعة إب",
+      "name_ar": "جامعة إب",
+      "name_en": "Ibb University",
+      "governorate": "Ibb",
+      "institution_type": "university",
+      "ownership_status": "government_verified",
+      "official_url": "https://www.ibbuniv.edu.ye/",
+      "location_status": "not_recorded",
+      "verification_status": "official_verified",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "IBB-UNIV-OFFICIAL-2026-08",
+          "source_url": "https://www.ibbuniv.edu.ye/",
+          "retrieved_at": "2026-08-28",
+          "note": "Official university website reviewed for institutional identity, services and linked academic units. No current student count or fee schedule is asserted in this record."
+        }
+      ],
+      "updated_at": "2026-08-28",
+      "change_note": "Added from a direct official institutional source; geographic coordinates require a separately cited location source."
+    },
+    {
+      "record_id": "ibb-university-ust-ibb-branch",
+      "name": "فرع جامعة العلوم والتكنولوجيا في إب",
+      "name_ar": "فرع جامعة العلوم والتكنولوجيا في إب",
+      "name_en": "University of Science and Technology — Ibb Branch",
+      "governorate": "Ibb",
+      "institution_type": "university_branch",
+      "ownership_status": "unknown",
+      "official_url": "https://ust.edu/en/ibb-branch/",
+      "location_status": "not_recorded",
+      "verification_status": "official_verified",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "UST-IBB-OFFICIAL-2026-08",
+          "source_url": "https://ust.edu/en/ibb-branch/",
+          "retrieved_at": "2026-08-28",
+          "note": "Official branch page reviewed for branch identity and visible services. Its historical enrollment figures are not current operating statistics."
+        }
+      ],
+      "updated_at": "2026-08-28",
+      "change_note": "Added from a direct institutional branch page. Ownership and a branch-specific contact channel require separate source support."
+    }
+  ]
+}
