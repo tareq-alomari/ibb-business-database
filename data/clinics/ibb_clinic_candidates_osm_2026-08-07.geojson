@@ -1,0 +1,4678 @@
+{
+  "type": "FeatureCollection",
+  "name": "ibb_clinic_candidates_osm_2026_08_07",
+  "attribution": "© OpenStreetMap contributors; HOT; HDX snapshot dated 2026-08-07.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223293216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.22657,
+          14.381222
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223293216",
+        "name": "المركز الصحي بني عمر",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223293079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.230383,
+          14.372799
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223293079",
+        "name": "وحدة صحية سليام بني عمر",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223210750",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.381484,
+          14.291916
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223210750",
+        "name": "وحدة صحية أعماد",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818156118",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2525187,
+          14.3222949
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818156118",
+        "name": "الوحدة الصحية الاصلاب",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818156617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2294913,
+          14.3039023
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818156617",
+        "name": "الوحدة الصحية الحبلة",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818156218",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2312769,
+          14.3115207
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818156218",
+        "name": "الوحدة الصحية الوبلي",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818156019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2619146,
+          14.2997459
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818156019",
+        "name": "الوحدة الصحية بيت سويد",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223292685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.24595,
+          14.285531
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223292685",
+        "name": "المركز الصحي بني مسلم",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818156117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2063158,
+          14.2829657
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818156117",
+        "name": "المركز الصحي بيت محرم",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818156717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2412457,
+          14.2634867
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818156717",
+        "name": "الوحدة الصحية المعراض",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818155917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.217921,
+          14.2516379
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818155917",
+        "name": "الوحدة الصحية المقاسمة",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818156018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2329225,
+          14.2471325
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818156018",
+        "name": "الوحدة الصحية شيعان",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818156020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2410286,
+          14.2384992
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818156020",
+        "name": "الوحدة الصحية وقاح",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-6873255973",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.319,
+          14.2637
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-6873255973",
+        "name": "Emad Almokbli",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-6873143622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3192,
+          14.2638
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-6873143622",
+        "name": "عماد المقبلي",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223290218",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.526324,
+          14.304834
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223290218",
+        "name": "المركز الصحي التالبي",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223292291",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.552595,
+          14.28917
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223292291",
+        "name": "الوحدة الصحية عرام",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223233417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.587273,
+          14.257343
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223233417",
+        "name": "الوحدة الصحية الجوران",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223231550",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.608235,
+          14.234775
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223231550",
+        "name": "الوحدة الصحية الكتبة",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223217373",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.66076,
+          14.125378
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223217373",
+        "name": "مركز صحي الحبيشية",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223232294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.556853,
+          13.996383
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223232294",
+        "name": "مركز صحي خربة الصباري",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223232462",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.524149,
+          14.004811
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223232462",
+        "name": "مركز صحي جبل عمار",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219364485",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.479225,
+          14.006319
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219364485",
+        "name": "الوحدة الصحية بالعود",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219365242",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.492011,
+          13.990478
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219365242",
+        "name": "الوحدة الصحية بشرنمة العلياء",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1226310313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.41587,
+          13.917766
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1226310313",
+        "name": "وحدة صحية العذارب",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219327447",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.356512,
+          13.896857
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219327447",
+        "name": "وحدة صحية حبيل الدار",
+        "governorate": "Ibb",
+        "district": "As Sabrah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1226311222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.323188,
+          13.914181
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1226311222",
+        "name": "المركز الصحي بنجد الجماعي",
+        "governorate": "Ibb",
+        "district": "As Sabrah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1221824797",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.253416,
+          13.830317
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1221824797",
+        "name": "المركز الصحي العربين",
+        "governorate": "Ibb",
+        "district": "As Saiyani",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219333690",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.296379,
+          13.900217
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219333690",
+        "name": "مجمع الطبي إب",
+        "governorate": "Ibb",
+        "district": "Ibb",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218207812",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.212053,
+          13.957544
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218207812",
+        "name": "المركز الصحي المقاطن",
+        "governorate": "Ibb",
+        "district": "Ibb",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218207815",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2120429,
+          13.9575277
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218207815",
+        "name": "الوحدة الصحية المقاطن",
+        "governorate": "Ibb",
+        "district": "Ibb",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223241389",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.235283,
+          13.951198
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223241389",
+        "name": "المركز الصحي بحبرانة بلاح",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219332028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.300239,
+          13.955426
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219332028",
+        "name": "الوحدة الصحية عروان",
+        "governorate": "Ibb",
+        "district": "As Sabrah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219331838",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.289183,
+          13.931841
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219331838",
+        "name": "المركز الصحي الشامي",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1226311158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.311404,
+          13.964617
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1226311158",
+        "name": "مركز صحي مطاية",
+        "governorate": "Ibb",
+        "district": "As Sabrah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224311259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.321573,
+          13.994971
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224311259",
+        "name": "المركز الصحي بشوط الفرس",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223233406",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.388129,
+          14.001902
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223233406",
+        "name": "مركز صحي بني عواض",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223234825",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.275159,
+          13.988164
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223234825",
+        "name": "المركز الصحي عزلة الدعيس",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223235640",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.241001,
+          13.997137
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223235640",
+        "name": "المركز الصحي البيت الجديد",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223237989",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.205713,
+          13.973327
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223237989",
+        "name": "الوحدة الصحية الموية",
+        "governorate": "Ibb",
+        "district": "Ibb",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223235596",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.218411,
+          13.993639
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223235596",
+        "name": "المركز الصحي منزل موسى",
+        "governorate": "Ibb",
+        "district": "Ibb",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223242755",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.253083,
+          14.032011
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223242755",
+        "name": "الوحدة الصحية الحرث",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218218152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.227566,
+          14.07729
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218218152",
+        "name": "الوحدة الصحية بشرق النجار",
+        "governorate": "Ibb",
+        "district": "Ba'dan",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218218093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.241412,
+          14.09171
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218218093",
+        "name": "الوحدة الصحية عزلة الوادي",
+        "governorate": "Ibb",
+        "district": "Al Makhadir",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1222015037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.317674,
+          14.117091
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1222015037",
+        "name": "المركز الصحي بجبل الجبالي",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1222014254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.359679,
+          14.110181
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1222014254",
+        "name": "مركز صحي ذي هبور",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218214875",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.389245,
+          14.129299
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218214875",
+        "name": "مركز صحي بيت الفائق",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218219019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3278074,
+          14.0650633
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218219019",
+        "name": "مركز صحي السريمة",
+        "governorate": "Ibb",
+        "district": "Ash Sha'ir",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1222014449",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.378315,
+          14.042726
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1222014449",
+        "name": "المركز الصحي بنجد حوشب",
+        "governorate": "Ibb",
+        "district": "Ash Sha'ir",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218214618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.46671,
+          14.06046
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218214618",
+        "name": "مركز صحي الخلة العود",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1222012951",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.504515,
+          14.036399
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1222012951",
+        "name": "الوحدة الصحية بشعب المريس",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223232635",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.538418,
+          14.042081
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223232635",
+        "name": "المركز الصحي بقاع الولي",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219363833",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.463679,
+          14.109486
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219363833",
+        "name": "مركز الجبجب بالنادرة",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218214804",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.44514,
+          14.090936
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218214804",
+        "name": "وحدة صحية مدار",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218214780",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.40637,
+          14.077697
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218214780",
+        "name": "مركز صحي الكوبة",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1222013984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.432527,
+          14.126711
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1222013984",
+        "name": "وحدة صحية نيعان",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1222014341",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.425838,
+          14.123015
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1222014341",
+        "name": "المركز الصحي سوادة",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219363810",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4965,
+          14.144005
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219363810",
+        "name": "الوحدة الصحية شعب عمار",
+        "governorate": "Ibb",
+        "district": "An Nadirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219363764",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.569757,
+          14.156535
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219363764",
+        "name": "الوحدة الصحية حجل عمار",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-6689577710",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5862995,
+          14.1645258
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-6689577710",
+        "name": "مستوصف",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219354578",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.50378,
+          14.170847
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219354578",
+        "name": "مركز صحي الرفى عجيب",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219363737",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.525752,
+          14.179155
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219363737",
+        "name": "الوحدة الصحية عجيب",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223214957",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.58743,
+          14.22209
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223214957",
+        "name": "مركز صحي شخب عمار",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8386603219",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5753954,
+          14.2257963
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8386603219",
+        "name": "مستشفى الرضمة العام",
+        "governorate": "Ibb",
+        "district": "Ar Radmah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219354466",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.465215,
+          14.217056
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219354466",
+        "name": "الوحدة الصحية بيت حلبوب",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223207911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.4159,
+          14.187213
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223207911",
+        "name": "المركز الصحي بيت الأشول",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223207870",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.371495,
+          14.185934
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223207870",
+        "name": "المركز الصحي جبل حجاج",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218214935",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.395232,
+          14.138844
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218214935",
+        "name": "الوحدة الصحية الأحواد",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1222015710",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.352432,
+          14.176354
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1222015710",
+        "name": "مركز صحي بيت الرميصة",
+        "governorate": "Ibb",
+        "district": "As Saddah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218216642",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.242668,
+          14.132327
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218216642",
+        "name": "الوحدة الصحية دار حبة",
+        "governorate": "Ibb",
+        "district": "Al Makhadir",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8804398317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1849871,
+          14.2284808
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8804398317",
+        "name": "مستشفى رحاب الريفي",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818157317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1095258,
+          14.2008566
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818157317",
+        "name": "الوحدة الصحية معينة",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818206619",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9670235,
+          14.2184226
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818206619",
+        "name": "الوحدة الصحية سقيفة",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217864153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.810391,
+          14.22501
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217864153",
+        "name": "وحدة صحية جمعة بني ساوي",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818206620",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8085308,
+          14.2235407
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818206620",
+        "name": "الزحدة الصحية بني ساوي",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217863555",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.844036,
+          14.1364
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217863555",
+        "name": "الوحدة الصحية سوق السبت",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217863668",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.878725,
+          14.146798
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217863668",
+        "name": "الوحدة الصحية بالوقعة",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315632",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.956918,
+          14.085394
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315632",
+        "name": "المركز الصحي بالأجعوم",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315738",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.884065,
+          14.109776
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315738",
+        "name": "الوحدة الصحية الفنج",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315620",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.976241,
+          14.05803
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315620",
+        "name": "المركز الصحي الفخر الخزم",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315662",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.988595,
+          14.070666
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315662",
+        "name": "المركز الصحي بني الفخر",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315673",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.986457,
+          14.02822
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315673",
+        "name": "المركز الصحي حجافة",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.001773,
+          14.025942
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315107",
+        "name": "المركز الصحي حزم العدين",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.021557,
+          14.03576
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315038",
+        "name": "الوحدة الصحية السلق",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.044912,
+          14.026722
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315078",
+        "name": "الوحدة الصحية ملكان",
+        "governorate": "Ibb",
+        "district": "Hobeish",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217963421",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.098838,
+          14.05878
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217963421",
+        "name": "الوحدة الصحية سوق الربوع",
+        "governorate": "Ibb",
+        "district": "Hobeish",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217963453",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.084153,
+          14.074122
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217963453",
+        "name": "الوحدة الصحية شعب النجار",
+        "governorate": "Ibb",
+        "district": "Hobeish",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.052799,
+          14.065774
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315390",
+        "name": "وحدة صحية ذي شوح",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315297",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.036945,
+          14.104975
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315297",
+        "name": "الوحدة الصحية الجبجب",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224311388",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.095292,
+          14.105364
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224311388",
+        "name": "المركز الصحي ظلمة;وحدة صحية حبيش",
+        "governorate": "Ibb",
+        "district": "Hobeish",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224311344",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.120242,
+          14.114045
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224311344",
+        "name": "مركز صحي الصدر",
+        "governorate": "Ibb",
+        "district": "Hobeish",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218218173",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.190843,
+          14.110866
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218218173",
+        "name": "المركز الصحي المخادر",
+        "governorate": "Ibb",
+        "district": "Al Makhadir",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223242805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.112029,
+          14.03148
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223242805",
+        "name": "مركز صحي جبل المعود",
+        "governorate": "Ibb",
+        "district": "Ibb",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223237731",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.175074,
+          13.979554
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223237731",
+        "name": "مركز صحة الأسرة",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-6346956885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.176326,
+          13.9712613
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-6346956885",
+        "name": "المركز الاستشاري الطبي",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8951013818",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1504986,
+          13.9711139
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8951013818",
+        "name": "مستشفى الأمين النموذجي",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217970521",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.116302,
+          13.996507
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217970521",
+        "name": "المركز الصحي باليهاري",
+        "governorate": "Ibb",
+        "district": "Ibb",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-5927668193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1081683,
+          14.0156547
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-5927668193",
+        "name": "مركز دار الصحة الطبي",
+        "governorate": "Ibb",
+        "district": "Ibb",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223242635",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.065325,
+          14.00052
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223242635",
+        "name": "وحدة صحية حرد",
+        "governorate": "Ibb",
+        "district": "Ibb",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223242234",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.061766,
+          14.02206
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223242234",
+        "name": "الوحدة الصحية نقيل العقاب",
+        "governorate": "Ibb",
+        "district": "Hobeish",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224315029",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.013103,
+          14.016216
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224315029",
+        "name": "المركز الصحي بني عواض",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219347836",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.05972,
+          13.921517
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219347836",
+        "name": "مركز صحي الشوهلي",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219347813",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.116308,
+          13.934259
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219347813",
+        "name": "مركز صحي الفجرة",
+        "governorate": "Ibb",
+        "district": "Jiblah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223259293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.921548,
+          13.808108
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223259293",
+        "name": "المركز الصحي بني علي",
+        "governorate": "Ibb",
+        "district": "Mudhaykhirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223258425",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.983622,
+          13.808264
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223258425",
+        "name": "مركز صحي الساعة",
+        "governorate": "Ibb",
+        "district": "Mudhaykhirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223258531",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.010351,
+          13.770392
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223258531",
+        "name": "الوحدة الصحية الزقاور",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-4958206622",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1341196,
+          13.7602694
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-4958206622",
+        "name": "مستوصف السلامة",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-4958210721",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1368371,
+          13.7635177
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-4958210721",
+        "name": "Unnamed clinic candidate (node/4958210721)",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224333484",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.25571,
+          13.74603
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224333484",
+        "name": "الوحدة الصحية أدمات",
+        "governorate": "Ibb",
+        "district": "As Sabrah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1226303903",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.322278,
+          13.800418
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1226303903",
+        "name": "الوحدة الصحية بسوق الأحد",
+        "governorate": "Ibb",
+        "district": "As Sabrah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-7575310188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1758487,
+          13.9524529
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-7575310188",
+        "name": "مستوصف دار العافية",
+        "governorate": "Ibb",
+        "district": "Al Mashannah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-6276232688",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1649706,
+          13.9649984
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-6276232688",
+        "name": "مختبرات الفا",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-6793081686",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1723304,
+          13.9674015
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-6793081686",
+        "name": "عيادة الحياة",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-6276232689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.166428,
+          13.9694176
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-6276232689",
+        "name": "مستشفى الكندي",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223237914",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.181097,
+          13.964927
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223237914",
+        "name": "وحدة صحية بيت الأغبري",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-5929422831",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1134348,
+          13.8234888
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-5929422831",
+        "name": "مركز باعلوي الطبي",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223244511",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.112287,
+          13.837912
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223244511",
+        "name": "المركز الصحي ذي السفال",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219346989",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.085593,
+          13.852379
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219346989",
+        "name": "المركز الصحي شوائط",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223251033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.039648,
+          13.828353
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223251033",
+        "name": "المركز الصحي بالجعاشن",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223259083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.040648,
+          13.8623138
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223259083",
+        "name": "وحدة صحية الحبلة",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218210147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.039464,
+          13.873249
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218210147",
+        "name": "وحدة صحية القويزان",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218209576",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.083734,
+          13.870996
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218209576",
+        "name": "الوحدة الصحية بالتوابي",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218209253",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.092336,
+          13.90297
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218209253",
+        "name": "الوحدة الصحية الشراعي",
+        "governorate": "Ibb",
+        "district": "Jiblah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1219347807",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.098829,
+          13.913636
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1219347807",
+        "name": "الوحدة الصحية الربادي",
+        "governorate": "Ibb",
+        "district": "Jiblah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218210623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.961846,
+          13.8934
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218210623",
+        "name": "المركز الصحي بمذيخرة",
+        "governorate": "Ibb",
+        "district": "Mudhaykhirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223259069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.987418,
+          13.863094
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223259069",
+        "name": "وحدة صحية الجوالح",
+        "governorate": "Ibb",
+        "district": "Mudhaykhirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223258491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.982312,
+          13.837135
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223258491",
+        "name": "المركز الصحي حمير",
+        "governorate": "Ibb",
+        "district": "Mudhaykhirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223258459",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.994902,
+          13.829213
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223258459",
+        "name": "مركز صحي خولان",
+        "governorate": "Ibb",
+        "district": "Mudhaykhirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223258480",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.959625,
+          13.814447
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223258480",
+        "name": "وحدة صحية الشرقي",
+        "governorate": "Ibb",
+        "district": "Mudhaykhirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223256954",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.942939,
+          13.846407
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223256954",
+        "name": "المركز الصحي بالحمادي",
+        "governorate": "Ibb",
+        "district": "Mudhaykhirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1224326514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.856923,
+          13.840018
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1224326514",
+        "name": "المركز الصحي الأفيوش",
+        "governorate": "Ibb",
+        "district": "Mudhaykhirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223256430",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.893413,
+          13.847933
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223256430",
+        "name": "مستوصف الجمعة أيقوع أسفل",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223256976",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8775917,
+          13.8330663
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223256976",
+        "name": "مستوصف إبن النفيس الأكروف",
+        "governorate": "Ibb",
+        "district": "Mudhaykhirah",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223256966",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.872913,
+          13.870161
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223256966",
+        "name": "المركز الصحي بالعمارنة",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217860074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.831812,
+          13.910451
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217860074",
+        "name": "المركز الصحي بالمصينعة",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217859286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.843139,
+          13.940393
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217859286",
+        "name": "المركز الصحي بني يوسف",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217859940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.819725,
+          13.941501
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217859940",
+        "name": "المركز الصحي بالكدرة",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-14077224886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9024376,
+          13.9540473
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-14077224886",
+        "name": "مستوصف الرميد الصحي",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-14077240728",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8887369,
+          13.9363605
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-14077240728",
+        "name": "مستوصف شرقي عردن",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217859313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.881858,
+          13.940221
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217859313",
+        "name": "المركز الصحي حود",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1226367599",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.929149,
+          13.929865
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1226367599",
+        "name": "المركز الصحي بلاد المليكي",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1221838591",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.970512,
+          13.928244
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1221838591",
+        "name": "الوحدة الصحية قصع حليان",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1221839067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.993787,
+          13.969495
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1221839067",
+        "name": "المركز الصحي بالعدين",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1221840415",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9742101,
+          13.9975727
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1221840415",
+        "name": "المركز الصحي بني عبد السلام",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1221840295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9742101,
+          13.9977436
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1221840295",
+        "name": "وحدة صحية بني عبد السلام",
+        "governorate": "Ibb",
+        "district": "Hazm Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217860771",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.839658,
+          14.001525
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217860771",
+        "name": "المركز الصحي قداس",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218212973",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.821957,
+          14.019611
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218212973",
+        "name": "المركز الصحي قداس الأحمود",
+        "governorate": "Ibb",
+        "district": "Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1218213365",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.781123,
+          14.014518
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1218213365",
+        "name": "المركز الصحي بالأخماس",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217852406",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.688244,
+          13.935404
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217852406",
+        "name": "الوحدة الصحية بوادي الحصن",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217853478",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.778084,
+          13.932517
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217853478",
+        "name": "المركز الصحي الوزيرة",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223263378",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.749025,
+          13.887088
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223263378",
+        "name": "المركز الصحي العاقبة",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223263322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.744259,
+          13.868223
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223263322",
+        "name": "مركز صحي العاقبة العليا",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1223263346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.790557,
+          13.881439
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1223263346",
+        "name": "المركز الصحي بالفلقة",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1217853755",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.802578,
+          13.888531
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1217853755",
+        "name": "المركز الصحي بني أحد الثلث",
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818225519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9389394,
+          14.3056526
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818225519",
+        "name": "الوحدة الصحية المبداء",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818226017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9566657,
+          14.3278484
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818226017",
+        "name": "الوحدة الصحية مدحجين",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818225917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0004102,
+          14.3425323
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818225917",
+        "name": "الوحدة الصحية الغبيب",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818208119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0001189,
+          14.300541
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818208119",
+        "name": "الوحدة الصحية باب الشعب",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818206618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9996436,
+          14.3005884
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818206618",
+        "name": "مركز الصحة الانجابية باب الشعب",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818226018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9451404,
+          14.2758092
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818226018",
+        "name": "الوحدة الصحية ضهي",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818225518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0167666,
+          14.2668201
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818225518",
+        "name": "الوحدة الصحية النكاع",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818156318",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0922534,
+          14.2777417
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818156318",
+        "name": "الوحدة الصحية المقهاية",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818155919",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1469725,
+          14.2439518
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818155919",
+        "name": "الوحدة الصحية بني جربان",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818155918",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1646892,
+          14.2662063
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818155918",
+        "name": "الوحدة الصحية نجد البرح",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818170017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1227556,
+          14.2991879
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818170017",
+        "name": "الوحدة الصحية حبانة",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818225517",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1396828,
+          14.3134441
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818225517",
+        "name": "الوحدة الصحية نجد مدر",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818156619",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0757232,
+          14.306773
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818156619",
+        "name": "المركز الصحي ربابة",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818225618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0073349,
+          14.3783668
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818225618",
+        "name": "الوحدة الصحية الحشاشي",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818170217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0644576,
+          14.369072
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818170217",
+        "name": "الوحدة الصحية الحمرورة",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818170117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1286996,
+          14.3498507
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818170117",
+        "name": "المركز الصحي صيحان",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-8818170317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0618665,
+          14.4268335
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-8818170317",
+        "name": "الوحدة الصحية الكرابة",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1222020831",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.057331,
+          14.417828
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1222020831",
+        "name": "الوحدة الصحية الكرابة",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-clinic-osm-node-1222020834",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.040711,
+          14.42578
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-clinic-osm-node-1222020834",
+        "name": "الوحدة الصحية النخلة",
+        "governorate": "Ibb",
+        "district": "Al Qafr",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28"
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    }
+  ]
+}
