@@ -1,0 +1,8 @@
+{
+  "source_id": "HDX-HOT-OSM-EDU-2026-08",
+  "retrieved_at": "2026-08-28",
+  "filter": "adm1_name == Ibb and explicit training/center name signal",
+  "candidate_count": 0,
+  "district_counts": {},
+  "verification_status": "All records are public_candidate and are not automatically linked to official centre records."
+}

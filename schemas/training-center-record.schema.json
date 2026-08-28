@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/tareq-alomari/ibb-business-database/schemas/training-center-record.schema.json",
+  "title": "Ibb Training Center Record",
+  "description": "Schema for an institution-level training or continuing-education centre in Ibb Governorate.",
+  "type": "object",
+  "required": ["record_id", "name", "governorate", "center_type", "verification_status", "confidence", "sources", "updated_at"],
+  "properties": {
+    "record_id": { "type": "string", "pattern": "^ibb-training-center-[a-z0-9-]+$" },
+    "name": { "type": "string", "minLength": 1 },
+    "governorate": { "const": "Ibb" },
+    "parent_institution": { "type": ["string", "null"] },
+    "center_type": { "type": "string", "enum": ["continuing_education", "technical_training", "vocational_training", "language_training", "professional_training", "unknown"] },
+    "official_url": { "type": ["string", "null"], "format": "uri" },
+    "verification_status": { "type": "string", "enum": ["official_verified", "field_verified", "public_candidate", "stale", "rejected"] },
+    "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+    "sources": { "type": "array", "minItems": 1 },
+    "updated_at": { "type": "string", "format": "date" }
+  },
+  "additionalProperties": false
+}

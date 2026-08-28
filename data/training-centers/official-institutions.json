@@ -1,0 +1,26 @@
+{
+  "title": "Officially sourced training centers in Ibb Governorate",
+  "updated_at": "2026-08-28",
+  "scope_note": "This is a limited index of training centres with a direct institutional page. It is not a directory of all training providers in Ibb and does not publish individual course availability, fees, learner counts or contact details without a dated source.",
+  "records": [
+    {
+      "record_id": "ibb-training-center-ibb-continuing-education",
+      "name": "مركز التعليم المستمر وخدمة المجتمع",
+      "governorate": "Ibb",
+      "parent_institution": "جامعة إب",
+      "center_type": "continuing_education",
+      "official_url": "https://www.ibbuniv.edu.ye/csc-center/",
+      "verification_status": "official_verified",
+      "confidence": "high",
+      "sources": [
+        {
+          "source_id": "IBB-UNIV-CSC-2026-08",
+          "source_url": "https://www.ibbuniv.edu.ye/csc-center/",
+          "retrieved_at": "2026-08-28",
+          "note": "Official centre page reviewed for the institution identity and its stated continuing-education and community-service purpose. Undated figures and placeholder testimonials are excluded."
+        }
+      ],
+      "updated_at": "2026-08-28"
+    }
+  ]
+}
