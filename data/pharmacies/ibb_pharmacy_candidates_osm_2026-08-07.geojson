@@ -1,0 +1,372 @@
+{
+  "type": "FeatureCollection",
+  "name": "ibb_pharmacy_candidates_osm_2026_08_07",
+  "attribution": "© OpenStreetMap contributors; Humanitarian OpenStreetMap Team (HOT). Derived from HDX snapshot dated 2026-08-07.",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-node-5056807723",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1330826,
+          13.9693595
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-node-5056807723",
+        "name": "صيدلية أوسان",
+        "name_ar": "صيدلية أوسان",
+        "name_en": "Awsan pharmacy",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-node-8175289917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1587035,
+          13.9713823
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-node-8175289917",
+        "name": "صيدلية إكسير",
+        "name_ar": null,
+        "name_en": "Elixir Pharmacy",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-node-5927667997",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.159133,
+          13.9714735
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-node-5927667997",
+        "name": "صيدلية إكسير فارما",
+        "name_ar": null,
+        "name_en": "Exir pharmacy",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-node-7236130785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1857631,
+          13.9787253
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-node-7236130785",
+        "name": "صيدلية الوحدة",
+        "name_ar": null,
+        "name_en": "alwhdh pharmacie",
+        "governorate": "Ibb",
+        "district": "Adh Dhihar",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-node-4532931289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1349793,
+          13.7598123
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-node-4532931289",
+        "name": "صيدلية الرشيد",
+        "name_ar": "صيدلية الرشيد",
+        "name_en": "Sydly@ lrshyd",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-node-5760521621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1302137,
+          13.7602866
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-node-5760521621",
+        "name": "صيدلية الرماح",
+        "name_ar": null,
+        "name_en": "pharmacy",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-node-7794753486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.1347965,
+          13.7592281
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-node-7794753486",
+        "name": "صيدلية عالم الصحه والجمال",
+        "name_ar": null,
+        "name_en": "Pharmaciest alsah and gamal alam",
+        "governorate": "Ibb",
+        "district": "Dhi As Sufal",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-way-991049554",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.8607915,
+              13.9781473
+            ],
+            [
+              43.8608076,
+              13.9780987
+            ],
+            [
+              43.8606482,
+              13.9780693
+            ],
+            [
+              43.8606288,
+              13.9780658
+            ],
+            [
+              43.8606109,
+              13.9781143
+            ],
+            [
+              43.8607915,
+              13.9781473
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-way-991049554",
+        "name": "Unnamed pharmacy candidate (way/991049554)",
+        "name_ar": null,
+        "name_en": null,
+        "governorate": "Ibb",
+        "district": "Far' Al Odayn",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-node-1869182572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3770042,
+          14.298042
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-node-1869182572",
+        "name": "Sary Pharmacy( مستوص ساري الطبي)",
+        "name_ar": null,
+        "name_en": "Sary Pharmacy( mstwS sry lTby)",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-node-4544942992",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3775956,
+          14.3005351
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-node-4544942992",
+        "name": "Unnamed pharmacy candidate (node/4544942992)",
+        "name_ar": null,
+        "name_en": null,
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ibb-pharmacy-osm-node-4544962489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3774008,
+          14.2991747
+        ]
+      },
+      "properties": {
+        "record_id": "ibb-pharmacy-osm-node-4544962489",
+        "name": "صيدلية الاشول",
+        "name_ar": "صيدلية الاشول",
+        "name_en": "Sydly@ lshwl",
+        "governorate": "Ibb",
+        "district": "Yarim",
+        "source_tag": "pharmacy",
+        "verification_status": "public_candidate",
+        "confidence": "medium",
+        "sources": [
+          {
+            "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+            "source_url": "https://data.humdata.org/dataset/hotosm_yem_health_facilities",
+            "retrieved_at": "2026-08-28",
+            "note": "OSM-derived pharmacy candidate. Licensing, operating status, stock, price and contact details require direct verification."
+          }
+        ],
+        "updated_at": "2026-08-28"
+      }
+    }
+  ]
+}

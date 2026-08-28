@@ -1,0 +1,13 @@
+{
+  "source_id": "HDX-HOT-OSM-HEALTH-2026-08",
+  "retrieved_at": "2026-08-28",
+  "filter": "adm1_name == Ibb and (amenity == pharmacy or healthcare == pharmacy)",
+  "candidate_count": 11,
+  "district_counts": {
+    "Adh Dhihar": 4,
+    "Dhi As Sufal": 3,
+    "Far' Al Odayn": 1,
+    "Yarim": 3
+  },
+  "verification_status": "All records are public_candidate and do not assert current operation, licensing, medicines, prices or delivery."
+}

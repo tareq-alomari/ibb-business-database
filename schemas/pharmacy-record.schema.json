@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/tareq-alomari/ibb-business-database/schemas/pharmacy-record.schema.json",
+  "title": "Ibb Pharmacy Candidate Record",
+  "description": "Schema for pharmacy candidates and verified pharmacy records in Ibb Governorate.",
+  "type": "object",
+  "required": ["record_id", "name", "governorate", "verification_status", "confidence", "sources", "updated_at"],
+  "properties": {
+    "record_id": { "type": "string", "pattern": "^ibb-pharmacy-[a-z0-9-]+$" },
+    "name": { "type": "string", "minLength": 1 },
+    "name_ar": { "type": ["string", "null"] },
+    "name_en": { "type": ["string", "null"] },
+    "governorate": { "const": "Ibb" },
+    "district": { "type": ["string", "null"] },
+    "verification_status": { "type": "string", "enum": ["official_verified", "field_verified", "public_candidate", "stale", "rejected"] },
+    "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+    "sources": { "type": "array", "minItems": 1 },
+    "updated_at": { "type": "string", "format": "date" }
+  },
+  "additionalProperties": false
+}
